@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    ppppp
-    <a href="/kalkulator">pp</a>
+    <a href="/kalkulator">uhggy</a>
 </body>
 </html>
