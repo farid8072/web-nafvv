@@ -12,8 +12,12 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('tb_plastik', function (Blueprint $table) {
-            $table->id();
-            $table->timestamps();
+            $table->string('id')->primary();
+            $table->decimal('input_sampah', 10, 2);
+            $table->string('jenis_sampah');
+            $table->string('penanganan');
+            $table->string('hasil_rendah');
+            $table->string('hasil_tinggi');
         });
     }
 
