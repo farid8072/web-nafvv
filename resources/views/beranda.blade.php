@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <a href="/kalkulator">uhggy</a>
+    <a href="/kalkulator">uhggy
+        nadira puteri
+    </a>
 </body>
 </html>
